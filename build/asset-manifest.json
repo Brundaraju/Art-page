@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b22ba446.chunk.css",
+    "main.js": "/static/js/main.b414aa42.chunk.js",
+    "main.js.map": "/static/js/main.b414aa42.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.18225a3e.chunk.js": "/static/js/2.18225a3e.chunk.js",
+    "static/js/2.18225a3e.chunk.js.map": "/static/js/2.18225a3e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8099bfe407de0e3bab3633abd74040dc.js": "/precache-manifest.8099bfe407de0e3bab3633abd74040dc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.b22ba446.chunk.css.map": "/static/css/main.b22ba446.chunk.css.map",
+    "static/media/ocean.jpg": "/static/media/ocean.1d2da7ba.jpg",
+    "static/media/paradise.jpg": "/static/media/paradise.eba1d4bc.jpg",
+    "static/media/rain.jpg": "/static/media/rain.f32cf98d.jpg",
+    "static/media/shore.jpg": "/static/media/shore.9a50be29.jpg",
+    "static/media/sunset.jpg": "/static/media/sunset.82e57f33.jpg",
+    "static/media/waterfall.jpg": "/static/media/waterfall.0f967c85.jpg",
+    "static/media/wave.jpg": "/static/media/wave.08fcdef3.jpg"
+  }
+}
